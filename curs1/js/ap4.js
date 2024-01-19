@@ -1,0 +1,1 @@
+alert ('Mesaj de alerta din fisier extern')
